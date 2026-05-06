@@ -46,3 +46,23 @@ Entrega mínima esperada (MVP)
 - Estrutura do projeto com páginas principais (Cadastro, Login, Dashboard, Perfil).
 - Integração básica entre interface e backend mock para autenticação e armazenamento de progresso.
 - Implementação completa de pelo menos um jogo (recomendado: Jogo da Velha).
+
+# Estrutura atual do projeto:
+
+├── Backend
+│   ├── login
+│   │   └── teste.cs
+│   └── register
+│       └── teste.cs
+├── Frontend
+│   ├── css
+│   │   └── teste.css
+│   └── html
+│       ├── login
+│       │   └── teste.html
+│       └── register
+│           └── teste.html
+├── _Wiki
+│   ├── copilot.md
+│   └── git.md
+└── README.md
