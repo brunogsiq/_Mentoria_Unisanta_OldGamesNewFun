@@ -49,20 +49,20 @@ Entrega mínima esperada (MVP)
 
 # Estrutura atual do projeto:
 
-├── Backend
-│   ├── login
-│   │   └── teste.cs
-│   └── register
-│       └── teste.cs
-├── Frontend
-│   ├── css
-│   │   └── teste.css
-│   └── html
-│       ├── login
-│       │   └── teste.html
-│       └── register
-│           └── teste.html
-├── _Wiki
-│   ├── copilot.md
-│   └── git.md
-└── README.md
+- _Wiki
+  - copilot.md
+  - git.md
+- Backend
+  - login
+    - teste.cs
+  - register
+    - teste.cs
+- Frontend
+  - css
+    - teste.css
+  - html
+    - login
+      - teste.html
+    - register
+      - teste.html
+- README.md
