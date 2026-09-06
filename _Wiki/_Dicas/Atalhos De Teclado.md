@@ -12,3 +12,4 @@
 10. Shift + Alt + setaP/Baixo: Copia linha superior para baixo
 11. Shift + Alt + f: Identação
 12. Ctrl + Alt + I : Chat copilet
+13. 

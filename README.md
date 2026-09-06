@@ -66,3 +66,6 @@ Entrega mínima esperada (MVP)
     - register
       - teste.html
 - README.md
+
+
+Mensagem teste - Deverá ser apagada após documentação completa
